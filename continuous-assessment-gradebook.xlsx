@@ -1,0 +1,4 @@
+​A simple data table layout for your spreadsheet template that automatically calculates student scoresStudent ID Student Full Name Classwork (30%) Homework (20%) Mid-Term Exam (20%) Terminal Exam (30%) Total Score (100%) Letter Grade
+SCH-001 Abena Mensah 25 18 16 24 83 A (Excellent)
+SCH-002 Kofi Owusu 21 15 14 20 70 B (Very Good)
+SCH-003 Ama Serwaa 28 20 18 27 93 A+ (Outstanding)
